@@ -5,3 +5,4 @@
 4、依赖倒置原则DIP（Dependence Inversion Principle）
 5、接口隔离原则ISP（Interface Segregation Principle）
 6、最少知识原则LKP（Least Knowledge Principle）
+https://github.com/chenqilin/java-design-patterns.git
